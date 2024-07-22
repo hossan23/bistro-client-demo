@@ -24,53 +24,41 @@ const Category = () => {
       >
         <SwiperSlide>
           <img src={slider1} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
-            salad
-          </h4>
+          <h4 className="text-center text-2xl uppercase  text-white">salad</h4>
         </SwiperSlide>
         <SwiperSlide>
           <img src={slider2} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
-            pizza
-          </h4>
+          <h4 className="text-center text-2xl uppercase  text-white">pizza</h4>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={slider3} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
-            soup
-          </h4>
+          <h4 className="text-center text-2xl uppercase  text-white">soup</h4>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={slider4} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
+          <h4 className="text-center text-2xl uppercase  text-white">
             dessert
           </h4>
         </SwiperSlide>
         <SwiperSlide>
           <img src={slider1} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
-            salad
-          </h4>
+          <h4 className="text-center text-2xl uppercase  text-white">salad</h4>
         </SwiperSlide>
         <SwiperSlide>
           <img src={slider2} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
-            pizza
-          </h4>
+          <h4 className="text-center text-2xl uppercase  text-white">pizza</h4>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={slider3} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
-            soup
-          </h4>
+          <h4 className="text-center text-2xl uppercase  text-white">soup</h4>
         </SwiperSlide>
         <SwiperSlide>
           {" "}
           <img src={slider4} alt="" />
-          <h4 className="text-center text-2xl uppercase -mt-10 text-white">
+          <h4 className="text-center text-2xl uppercase  text-white">
             dessert
           </h4>
         </SwiperSlide>
