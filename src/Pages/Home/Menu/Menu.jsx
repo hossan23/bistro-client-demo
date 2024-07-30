@@ -13,7 +13,7 @@ const Menu = () => {
       });
   }, []);
   return (
-    <section className="mb-10">
+    <section className="my-20">
       <SectionTitle
         heading={"FROM OUR MENU"}
         subHeading={"---Check it out---"}
