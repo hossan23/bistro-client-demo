@@ -1,9 +1,10 @@
 import { Helmet } from "react-helmet-async";
 import SectionCover from "../../../components/SectionCover/SectionCover";
 import coverImg from "../../../assets/menu/banner3.jpg";
-const Menu_page = () => {
-  return (
-    <div>
+
+const Menu = () => {
+    return (
+        <>
       <Helmet>
         <title>Restaurant | Menu</title>
       </Helmet>
@@ -22,8 +23,8 @@ const Menu_page = () => {
         subHeading="Would you like to try a dish?"
         heading="our menu"
       ></SectionCover>
-    </div>
-  );
+    </>
+    );
 };
 
-export default Menu_page;
+export default Menu;
