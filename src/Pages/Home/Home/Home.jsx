@@ -11,11 +11,13 @@ const Home = () => {
       <Helmet>
         <title>Restaurant | Home</title>
       </Helmet>
-      <Banner />
-      <Category />
-      <PopularMenu />
-      <Featured />
-      <Testimonial />
+      <div className="space-y-20">
+        <Banner />
+        <Category />
+        <PopularMenu />
+        <Featured />
+        <Testimonial />
+      </div>
     </>
   );
 };
